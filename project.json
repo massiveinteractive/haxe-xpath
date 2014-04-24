@@ -1,0 +1,10 @@
+{
+	"plugin": {},
+	"project": 
+	{
+		"name": "haxe-xpath",
+		"version": "0.4.0",
+		"id": "haxe-xpath",
+		"devDependencies": {}
+	}
+}
